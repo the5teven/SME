@@ -1,6 +1,6 @@
 # Simulated Method of Embeddings (SME)
 
-This repository contains a preliminary presentation of the **Simulated Method of Embeddings (SME)** — a contrastive learning-based approach to structural estimation in economics. The method does not require likelihood functions or moment conditions and builds on recent advances in representation learning.
+This repository contains a preliminary presentation of the **Simulated Method of Embeddings (SME), a contrastive learning-based approach to structural estimation in economics. The method does not require likelihood functions or moment conditions and builds on recent advances in representation learning.
 
 This draft outlines:
 - The SME estimator formulation

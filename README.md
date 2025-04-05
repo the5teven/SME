@@ -13,14 +13,11 @@ This draft outlines:
 **This is an early-stage draft intended for timestamping and authorship record. Do not cite or distribute without explicit permission.**
 
 
-## Edit Related Work
+## (Edit) Related Work
 
 This project is conceptually related to Kaji, Manresa, and Pouliot (2023), who propose an adversarial approach to structural estimation based on a minimax optimization between a simulator and a discriminator (akin to GANs). While both methods address simulation-based inference without likelihoods or moments, the Simulated Method of Embeddings (SME) introduced here is methodologically distinct.
 
-In contrast to the adversarial framework of Kaji et al., SME leverages contrastive learning — specifically a symmetric InfoNCE-style loss — and trains a fixed scoring function without a minimax loop. The estimation procedure is a direct M-estimation problem, not a game-theoretic saddle point. Our method is closer in spirit to Jiang, Lu, and Willett (2024), but adapted and reinterpreted for structural parameter recovery in econometric models.
-
-This distinction is central to our theoretical framework and estimator properties.
-
+In contrast to the adversarial framework of Kaji et al., SME leverages contrastive learning specifically a symmetric InfoNCE-style loss  and trains a fixed scoring function without a minimax loop. The estimation procedure is a direct M-estimation problem, not a game-theoretic saddle point. My method is closer in spirit to Jiang, Lu, and Willett (2024), but adapted and reinterpreted for structural parameter recovery in econometric models.
 
 **Author**: Steven Otis  
 **Date**: April 5, 2025

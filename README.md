@@ -22,4 +22,6 @@ In contrast to the adversarial framework of Kaji et al., SME leverages contrasti
 **Author**: Steven Otis  
 **Date**: April 7, 2025
 
-[![DOI](https://zenodo.org/badge/960872327.svg)](https://doi.org/10.5281/zenodo.15152796)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15170934.svg)](https://doi.org/10.5281/zenodo.15170934)
+
+

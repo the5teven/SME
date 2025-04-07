@@ -20,6 +20,6 @@ This project is conceptually related to Kaji, Manresa, and Pouliot (2023), who p
 In contrast to the adversarial framework of Kaji et al., SME leverages contrastive learning specifically a symmetric InfoNCE-style loss  and trains a fixed scoring function without a minimax loop. The estimation procedure is a direct M-estimation problem, not a game-theoretic saddle point. My method is an extension of the work done in the Embed and Emulate (E&E) framework of Jiang, Lu, and Willett (2024), but adapted and reinterpreted for structural parameter recovery in econometric models.
 
 **Author**: Steven Otis  
-**Date**: April 5, 2025
+**Date**: April 7, 2025
 
 [![DOI](https://zenodo.org/badge/960872327.svg)](https://doi.org/10.5281/zenodo.15152796)
